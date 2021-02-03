@@ -18,7 +18,6 @@ div{
 #red{
     background-color:#ff0000;
     text-align: right;
-    
 }
 
 img {
@@ -60,7 +59,7 @@ p{
 }
 
 footer p{
-    padding-left: 10px;
+    padding-bottom: 10px;
     padding-right: 10px;
     text-align: center;
 }
